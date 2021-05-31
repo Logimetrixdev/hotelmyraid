@@ -1,0 +1,84 @@
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined variable: submit in /home/sjslayjy/public_html/hotelmyraid/admin_login/index.php on line 40
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined variable: SameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[12-May-2017 11:44:55 Asia/Kolkata] PHP Notice:  Undefined variable: ErrorMsgForSameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:05 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined variable: submit in /home/sjslayjy/public_html/hotelmyraid/admin_login/index.php on line 40
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined variable: SameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[12-May-2017 11:45:14 Asia/Kolkata] PHP Notice:  Undefined variable: ErrorMsgForSameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined variable: submit in /home/sjslayjy/public_html/hotelmyraid/admin_login/index.php on line 40
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined variable: SameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[12-May-2017 11:45:55 Asia/Kolkata] PHP Notice:  Undefined variable: ErrorMsgForSameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined variable: submit in /home/sjslayjy/public_html/hotelmyraid/admin_login/index.php on line 40
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined variable: SameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[18-May-2017 15:10:12 Asia/Kolkata] PHP Notice:  Undefined variable: ErrorMsgForSameFields in /home/sjslayjy/public_html/hotelmyraid/class/class.user.php on line 26
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 11
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Use of undefined constant error_msg - assumed 'error_msg' in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
+[18-May-2017 15:10:18 Asia/Kolkata] PHP Notice:  Undefined index: error_msg in /home/sjslayjy/public_html/hotelmyraid/class/class.Notification.php on line 12
